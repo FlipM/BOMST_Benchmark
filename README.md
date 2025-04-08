@@ -6,3 +6,5 @@ This repository contains a benchmark of 270 instances of the bi-objective minimu
 where N = number of nodes, C = correlation factor (used to promote conflict between edge costs and, thus, objective functions), and S = seed (RNG). The graphs are complete.
 	
 The nondominated points are provided in the corresponding file, NDdataNcorrRseedS.txt, for each instance. Note that some instances could not be solved in 1 hour. In this case, the nondominated points file is empty.
+
+This is support material for the article "Grouping Strategies on Two-Phase Methods for Bi-objective Combinatorial Optimization", submitted.
